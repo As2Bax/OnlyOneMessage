@@ -16,11 +16,11 @@ class Metrics(commands.Cog):
                    function="metrics")
             return
         
-        port = 9200
+        port = 9500
         PREFIX = "oom_"
         
         try:
-            start_http_server(port)  # Prometheus endpoint (localhost:9200/metrics)
+            start_http_server(port)  # Prometheus endpoint (localhost:9500/metrics)
         except OSError:
             logmsg("DEBUG", "Endpoint already active, continuing...",
                    function="metrics")

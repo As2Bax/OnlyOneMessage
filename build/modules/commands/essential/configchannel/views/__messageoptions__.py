@@ -35,10 +35,10 @@ class CooldownSelect(discord.ui.Select):
             discord.SelectOption(label="Forever", value=0, description="Disable cooldown"),
             discord.SelectOption(label="12 Hours", value=43200),
             discord.SelectOption(label="1 Day", value=86400),
-            discord.SelectOption(label="3 Days", value=259200),
+            discord.SelectOption(label="3 Days", value=259500),
             discord.SelectOption(label="7 Days", value=604800),
             discord.SelectOption(label="14 Days", value=1209600),
-            discord.SelectOption(label="1 Month", value=2592000),
+            discord.SelectOption(label="1 Month", value=2595000),
         ]
         super().__init__(
             placeholder="Select a duration...",

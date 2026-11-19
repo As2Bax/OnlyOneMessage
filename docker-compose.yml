@@ -14,8 +14,8 @@ services:
 
     # HOST:CONTAINER
     ports:
-      - "9200:9200" # Metrics port (Prometheus)
-      - "9300:9300" # API port (Flask)
+      - "9500:9500" # Metrics port (Prometheus)
+      - "9600:9600" # API port (Flask)
 
   mongodb: # database service for OnlyOneMessage
     image: mongo:latest

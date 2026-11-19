@@ -91,8 +91,8 @@ update the provided fields in the file to your liking:
 ```bash
 {
     "development": false, # Whether to use the development or production environment
-    "metrics_support": false, # Whether to collect metrics or not (If enabled, port 9200 will be opened)
-    "api_support": false, # Whether the API is enabled or not (If enabled, port 9300 will be opened)
+    "metrics_support": false, # Whether to collect metrics or not (If enabled, port 9500 will be opened)
+    "api_support": false, # Whether the API is enabled or not (If enabled, port 9600 will be opened)
 
     "admins": [
         # Discord user ID's who have access to development commands

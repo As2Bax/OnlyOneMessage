@@ -32,7 +32,7 @@ class API(commands.Cog):
     thread = None
     instance = None
 
-    def __init__(self, bot, port: int = 9300):
+    def __init__(self, bot, port: int = 9600):
         self.bot = bot
         self.port = port
 

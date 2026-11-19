@@ -46,10 +46,10 @@ class AddChannel(commands.Cog):
         duration=[
             app_commands.Choice(name="12 Hours", value=43200),
             app_commands.Choice(name="1 Day", value=86400),
-            app_commands.Choice(name="3 Days", value=259200),
+            app_commands.Choice(name="3 Days", value=259500),
             app_commands.Choice(name="7 Days", value=604800),
             app_commands.Choice(name="14 Days", value=1209600),
-            app_commands.Choice(name="1 Month", value=2592000),
+            app_commands.Choice(name="1 Month", value=2595000),
             app_commands.Choice(name="Forever", value=0),
         ]
     )
