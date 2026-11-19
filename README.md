@@ -1,4 +1,4 @@
-<img src="https://cdn.monobyte.studio/projects/onlyonemessage.png" width="250"/>
+<img src="https://cdn.as2bax.dev/projects/onlyonemessage.png" width="250"/>
 
 # OnlyOneMessage
 
@@ -15,9 +15,9 @@ OnlyOneMessage is a feature-rich Discord bot that provides server admins **compl
 Set slowmodes **surpassing Discord's limit**, log **individual member cooldowns**, and **fine-tune** settings for **each individual channel**;
 all through a straightfoward interface using Discord's slash commands.
 
-📎 Visit the website: [onlyonemessage.monobyte.studio](https://onlyonemessage.monobyte.studio)
+📎 Visit the website: [onlyonemessage.as2bax.dev](https://onlyonemessage.as2bax.dev)
 
-❓ Documentation: [onlyonemessage.monobyte.studio/docs](https://onlyonemessage.monobyte.studio/docs)
+❓ Documentation: [onlyonemessage.as2bax.dev/docs](https://onlyonemessage.as2bax.dev/docs)
 
 
 ## ⚡ Features
@@ -31,7 +31,7 @@ all through a straightfoward interface using Discord's slash commands.
 
 ## 🖥️ Installation
 
-OnlyOneMessage is fully supported **and** hosted by Monobyte Studios, [invite the bot here.](https://onlyonemessage.monobyte.studio/invite)
+OnlyOneMessage is fully supported **and** hosted for free, [invite the bot here.](https://onlyonemessage.as2bax.dev/invite)
 If you would like to self-host this bot, follow the instructions below:
 
 ### Prerequisites
@@ -47,13 +47,13 @@ If you would like to self-host this bot, follow the instructions below:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/MonobyteStudios/OnlyOneMessage.git
+git clone https://github.com/As2Bax/OnlyOneMessage.git
 cd OnlyOneMessage
 ```
 
 If you'd like to use the nightly branch:
 ```bash
-git clone -b nightly https://github.com/MonobyteStudios/OnlyOneMessage.git
+git clone -b nightly https://github.com/As2Bax/OnlyOneMessage.git
 cd OnlyOneMessage
 ```
 
@@ -98,7 +98,7 @@ Your help is appreciated, whether you're adding features, fixing bugs, or adding
 
 - **Bug Fixes** - Issues and their solutions
 - **Features** - Command improvements/new functions
-- **Documentation** - README improvements, code comments, documentation under [OnlyOneMessageWeb](https://github.com/MonobyteStudios/OnlyOneMessageWeb)
+- **Documentation** - README improvements, code comments, documentation under [OnlyOneMessageWeb](https://github.com/As2Bax/OnlyOneMessageWeb)
 - **Refactoring** - Quality of life changes, code quality improvements
 
 ### Getting Started
@@ -155,25 +155,10 @@ Thank you for contributing! 💖
 
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**, see the `LICENSE.txt` file for more information.
 
-### What this means:
-
-- ✅ **Free to Use** - You can freely use the bot by inviting it to your own server
-- ✅ **Free to Study** - You can inspect & learn from it's source code
-- ✅ **Free to Modify** - You can create modified versions for personal or community use
-
-- ⚠️ If you host your own instance of this bot as a service, you must:
-    - Provide access to your complete source code, including modifications
-    - Release all source code under **APGL-3.0** ***OR*** [contact Monobyte Studios](mailto:legal@monobyte.studio) for a commercial license
-
-### Why this license?
-
-Monobyte Studios provides and maintains OnlyOneMessage as a hosted service;
-AGPL-3.0 ensures the community will benefit from improvements while protecting against unfair exploitation of our work.
-
 
 ## ❓ Support
-You can receive support by [joining our support server](https://onlyonemessage.monobyte.studio/support), creating an issue on this repository, or by [emailing us.](mailto:support@monobyte.studio)
+You can receive support by [joining our support server](https://onlyonemessage.as2bax.dev/support), creating an issue on this repository, or by [emailing us.](mailto:support@as2bax.dev)
 
 ---
 
-**Made with ❤️ by [Monobyte Studios](https://monobyte.studio)**
+**Made with ❤️ by [As2Bax](https://as2bax.dev)**
