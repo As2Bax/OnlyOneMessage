@@ -64,15 +64,15 @@ class Help(commands.Cog):
 
             container.add_item(
                 discord.ui.TextDisplay(
-                    f"OnlyOneMessage is maintained by Monobyte Studios ([monobyte.studio](https://monobyte.studio))\n"
-                    f"Need help? Join our [support server](https://onlyonemessage.monobyte.studio/support)!"
+                    f"(c) 2024-2026 As2Bax ([as2bax.dev](https://as2bax.dev))\n"
+                    f"Need help? Join our [support server](https://onlyonemessage.as2bax.dev/support)!"
                 ))
             
             container.add_item(
                 discord.ui.ActionRow(
-                    discord.ui.Button(label="Terms of Service", url="https://onlyonemessage.monobyte.studio/terms", emoji="<:settings:1368591899111329854>"),
-                    discord.ui.Button(label="Privacy Policy", url="https://onlyonemessage.monobyte.studio/privacy", emoji="<:lock:1368590733602459669>"),
-                    discord.ui.Button(label="Source Code", url="https://github.com/MonobyteStudios/OnlyOneMessage"),
+                    discord.ui.Button(label="Terms of Service", url="https://onlyonemessage.as2bax.dev/terms", emoji="<:settings:1368591899111329854>"),
+                    discord.ui.Button(label="Privacy Policy", url="https://onlyonemessage.as2bax.dev/privacy", emoji="<:lock:1368590733602459669>"),
+                    discord.ui.Button(label="Source Code", url="https://github.com/As2Bax/OnlyOneMessage"),
                 )
             )
 

@@ -104,7 +104,7 @@ class RemoveChannel(commands.Cog):
 
                     "An unknown error occured while removing this channel from OnlyOneMessage's management.\n"
                     "This error has been automatically logged for debugging. No action is required.\n\n"
-                    "<:rightarrow:1471673398164852930> If this issue persists, please create a ticket in our [support server](https://onlyonemessage.monobyte.studio/support)."
+                    "<:rightarrow:1471673398164852930> If this issue persists, please create a ticket in our [support server](https://onlyonemessage.as2bax.dev/support)."
                 )
             )
 

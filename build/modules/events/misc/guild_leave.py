@@ -38,7 +38,7 @@ class GuildLeave(commands.Cog):
                 discord.ui.TextDisplay(
                     "## ❌ Guild Removed\n"
                     "OnlyOneMessage has been *removed* from a guild."
-                ), accessory=discord.ui.Thumbnail(media=(guild.icon.url if guild.icon else "https://cdn.monobyte.studio/onlyonemessageweb/logos/logoanimated.gif"))
+                ), accessory=discord.ui.Thumbnail(media=(guild.icon.url if guild.icon else "https://cdn.as2bax.dev/onlyonemessageweb/logos/logoanimated.gif"))
             )
         )
 

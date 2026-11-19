@@ -1,7 +1,7 @@
 {
-    "version": "v2.0a",
-    "build": "2026.7.5",
-    "copyright": "(c) 2024-2026 Monobyte Studios [monobyte.studio]",
+    "version": "v2.0b",
+    "build": "2026.11.18",
+    "copyright": "(c) 2024-2026 As2Bax (as2bax.dev)",
 
     "development": false,
     "metrics_support": true,

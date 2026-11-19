@@ -154,7 +154,7 @@ class AddChannel(commands.Cog):
 
                         f"I don't have permission to edit role permissions for the {channel.mention} channel. "
                         "Please ensure I have the proper permissions and try again.\n\n"
-                        "<:rightarrow:1471673398164852930> If this issue persists, please create a ticket in our [support server](https://onlyonemessage.monobyte.studio/support)."
+                        "<:rightarrow:1471673398164852930> If this issue persists, please create a ticket in our [support server](https://onlyonemessage.as2bax.dev/support)."
                     )
                 )
 
@@ -229,7 +229,7 @@ class AddChannel(commands.Cog):
 
                     "An unknown error occured while setting this channel's slowmode.\n"
                     "This error has been automatically logged for debugging. No action is required.\n\n"
-                    "<:rightarrow:1471673398164852930> If this issue persists, please create a ticket in our [support server](https://onlyonemessage.monobyte.studio/support)."
+                    "<:rightarrow:1471673398164852930> If this issue persists, please create a ticket in our [support server](https://onlyonemessage.as2bax.dev/support)."
                 )
             )
 

@@ -23,7 +23,7 @@ class Feedback(commands.Cog):
             await interaction.response.send_modal(modal)
 
         else:
-            await interaction.response.send_message("You arent allowed to use this command. If this was a mistake, join our [support server](https://onlyonemessage.monobyte.studio/support).", ephemeral=True)
+            await interaction.response.send_message("You arent allowed to use this command. If this was a mistake, join our [support server](https://onlyonemessage.as2bax.dev/support).", ephemeral=True)
             logmsg("DEBUG", f"/feedback - user {interaction.user.id} is blacklisted", 
                    guild=str(interaction.guild.id), function="feedback")     
 
@@ -62,7 +62,7 @@ class FeedbackModal(discord.ui.Modal, title="Feedback"):
                     f"`{interaction.user.name}` (`{interaction.user.id}`) has submitted feedback.\n"
                     f"```{self.answer.value[:750]}```" # truncate to 750 chars
                     
-                ), accessory=discord.ui.Thumbnail(media=(interaction.user.avatar.url if interaction.user.avatar else "https://cdn.monobyte.studio/onlyonemessageweb/logos/logoanimated.gif"))
+                ), accessory=discord.ui.Thumbnail(media=(interaction.user.avatar.url if interaction.user.avatar else "https://cdn.as2bax.dev/onlyonemessageweb/logos/logoanimated.gif"))
             )
         )
 
