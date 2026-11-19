@@ -157,7 +157,7 @@ This project is licensed under the **GNU Affero General Public License v3.0 (AGP
 
 
 ## ❓ Support
-You can receive support by [joining our support server](https://onlyonemessage.as2bax.dev/support), creating an issue on this repository, or by [emailing us.](mailto:support@as2bax.dev)
+You can receive support by [joining our support server!](https://onlyonemessage.as2bax.dev/support)
 
 ---
 
